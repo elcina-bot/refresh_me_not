@@ -1,1 +1,24 @@
-<!-- ctrl_alt_transcend.css placeholder -->
+body {
+  background: url("https://i.imgur.com/nRSKTYd.gif") repeat;
+  color: #ffccff;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 16px;
+  text-shadow: 1px 1px #000;
+  padding: 2rem;
+}
+
+.ritual {
+  background: rgba(0, 0, 0, 0.5);
+  border: 2px dashed #ff99ff;
+  padding: 1.5rem;
+  margin: 2rem auto;
+  width: 70%;
+  font-style: italic;
+}
+
+.glow {
+  color: #ffffff;
+  text-shadow: 0 0 5px #ff66ff, 0 0 10px #ff66ff;
+  font-weight: bold;
+  margin: 1rem 0;
+}
